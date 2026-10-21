@@ -1,0 +1,12 @@
+# reports and logs the tool creates when it runs - not part of the project.
+# anchored to the repo root with a leading slash, so tool files inside Tools/ are kept.
+/Reports/
+/laptop-report_*.html
+/*.log
+/battery-test-*.log
+
+# Windows / editor junk
+Thumbs.db
+desktop.ini
+*.tmp
+lc-*-tmp.ps1

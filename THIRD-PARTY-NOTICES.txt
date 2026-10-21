@@ -1,0 +1,27 @@
+﻿THIRD-PARTY SOFTWARE IN THE Tools\ FOLDER
+==========================================
+
+The programs in the Tools\ folder are made by other people and are included
+here, unchanged, only for convenience. Each keeps its own license and copyright.
+They are NOT covered by this project's MIT license.
+
+-------------------------------------------------------------------
+CrystalDiskInfo  (Tools\CrystalDiskInfo)
+  (C) 2008-2026 hiyohiyo - Crystal Dew World
+  License: MIT (see Tools\CrystalDiskInfo\License\COPYRIGHT.txt)
+  Homepage: https://crystalmark.info/en/software/crystaldiskinfo/
+
+-------------------------------------------------------------------
+FurMark 2  (Tools\FurMark)
+  (C) 2007-2025 Geeks3D
+  License: freeware, free for any use; redistributed unchanged with the
+  required backlink below (see Tools\FurMark\EULA.txt).
+  Homepage: https://www.geeks3d.com/furmark/
+  (FurMark also bundles GPU-Z by TechPowerUp inside its own package.)
+
+-------------------------------------------------------------------
+NOT bundled (download from the maker if you want them):
+  CPU-Z     - https://www.cpuid.com/softwares/cpu-z.html
+  HWMonitor - https://www.cpuid.com/softwares/hwmonitor.html
+  These CPUID tools are free to use but their license does not clearly
+  allow re-hosting them, so only the official download links are given.

@@ -1,0 +1,5 @@
+# keep line endings as they are; do not let git rewrite them
+* -text
+
+# the Tools folder is third-party binaries - never diff or alter
+Tools/** binary
